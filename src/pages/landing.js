@@ -6,7 +6,7 @@ import {Link} from 'react-router-dom';
 //component imports
 import Hashtag from "./../components/hashtag.js";
 
-const Describers = ["software developer", "ui designer", "uni student"];
+const Describers = ["software developer", "ui designer", "major foodie", "uc berkeley student", "coffee enthusiast"];
 
 function Landing() {
 	return (
@@ -15,12 +15,11 @@ function Landing() {
 			<Bio><Hashtag tags={Describers}/></Bio>
 			<NavBlock>
 				  <ListItem>
-					<Link to="/aboutme" className="link-style darken">about</Link>	</ListItem>
+					<Link to="/aboutme" className="link-style darken">about</Link></ListItem>
 				  <ListItem>
 					<Link to="/projects" className="link-style darken">projects</Link></ListItem>
 				  <ListItem>
 					<Link to="/contact" className="link-style darken">contact</Link></ListItem>
-
 			</NavBlock>
 		</Page>
 	)

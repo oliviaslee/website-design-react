@@ -43,7 +43,7 @@ const Card = styled.section`
   height:calc(100vh - 119px);
   display: flex;
   overflow-x: auto;
-  margin-top:1em;
+  margin-top:2em;
 
   &::-webkit-scrollbar {
     display: none;
@@ -52,11 +52,11 @@ const Card = styled.section`
 
 const CardContent = styled.div`
   min-width:70vw;
-  margin-left:7em;
+  margin-left:6em;
 `;
 
 const LastCard = styled.div`
-  margin-left:3.5em;
+  margin-left:4em;
   min-width:1px;
 `;
 

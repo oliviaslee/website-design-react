@@ -13,7 +13,7 @@ function Intro() {
 				<Indent>UI/UX design, product development, frontend and backend development, interactive hardware</Indent>
 			</div>
 			<br/>
-			<Und>objective:</Und> <Indent>development of applications intended for dynamic interactions with its users; in both a physical and digital sense. achieve such by either introducing new products or recreating and redesigning existing programs.</Indent>
+			<Und>objective:</Und> <Indent>development of applications intended for dynamic interactions with its users--in both a physical and digital sense. achieve such by either introducing new products or recreating and redesigning existing programs.</Indent>
 			<br/>
 	<Und>production:</Und> <Indent>a human-centered design approach used for majority of my previous and on-going works. repetition is key: multiple iterations of product development, curation, and prototyping.</Indent>
 

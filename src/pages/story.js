@@ -5,8 +5,9 @@ import React from "react";
 import Typed from './../components/typed.js';
 import Polaroid from "./../components/polaroid.js";
 import Navbar from './../components/navbar.js';
+import Yelp from './../components/yelp.js'
 
-function Story() {
+function Story() {	
 	return (
 		<div>
 			<Navbar />
@@ -16,11 +17,12 @@ function Story() {
 					<div style={text} className="subcontent-container">
 						<h2><Typed string='the rundown.'/></h2>
 						<p>
-						I’m a junior undergrad at UC Berkeley studying computer science and data science with an interest in all things tech, design, and the combination of the two.
+						I’m a rising junior undergrad at UC Berkeley studying computer science and data science with an interest in all things tech, design, and the combination of the two.
 						<br/><br/>
 						A SoCal native exploring all of what NorCal has to offer.
 						<br/><br/>
-						Leisure? I really enjoy cafe hopping and discovering hidden-gem restaurants and shops, all while working towards getting the Yelp Elite status -emoji-
+						Leisure? I really enjoy cafe hopping and discovering hidden-gem restaurants and shops, all while working towards getting the Yelp Elite Status  
+							<Yelp />
 						<br/><br/>
 						Share similar interests or just want to chat? Connect with me! Added bonus for any East Bay cafe recommendations :’)
 						</p>

@@ -10,12 +10,13 @@ h1 {
   font-size: 75px;
   text-transform: uppercase;
   color:#628395;
-  margin-block-start:0.25em;
+  margin-block-start:0em;
   margin-block-end:0.25em;
 }
 
 h2 {
   font-family: 'Quicksand Medium';
+  
   font-size:25px;
   color: #2C4251;
   margin:0 0 5px 0;
