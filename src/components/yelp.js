@@ -29,7 +29,7 @@ class Yelp extends React.Component {
 
   render() {
     return (
-	  <a href="https://olivialee.yelp.com" target="_blank">
+	  <a href="https://olivialee.yelp.com" target="_blank" rel="noopener noreferrer">
 		<img 
 			onMouseOver={this.handleMouseOver} 
 			onMouseOut={this.handleMouseOut} 

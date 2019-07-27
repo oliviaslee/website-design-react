@@ -1,7 +1,7 @@
 // JavaScript Document
 import React from 'react';
 import styled from 'styled-components';
-import { Link, animateScroll as scroll } from "react-scroll";
+import { Link } from "react-scroll";
  
 //import components
 import Gallery from './../components/gallery.js'

@@ -42,7 +42,7 @@ class Icon extends React.Component {
     );
   	}
     return (
-      <a href={this.state.link} target="_blank">
+      <a href={this.state.link} target="_blank" rel="noopener noreferrer">
         <img 
 			onMouseOver={this.handleMouseOver} 
 			onMouseOut={this.handleMouseOut} 
