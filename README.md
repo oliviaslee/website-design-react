@@ -2,6 +2,8 @@
 
 ![Website Redesign Production Demo](demo/demo.gif)
 
+Previous deployment available at [this redirect link](https://5edc1adc781a110008a84441--oliviaslee.netlify.app/)
+
 -----
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
